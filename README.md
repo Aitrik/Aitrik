@@ -18,6 +18,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aitrik/Aitrik/output/snake.svg" alt="Snake animation" />
 
 ###
