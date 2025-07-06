@@ -3,14 +3,13 @@
 
 <br/>
 
-<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <!-- Add your social links here -->
 </p>
 
 <br/>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Tech Stack:</h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
