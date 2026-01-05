@@ -9,13 +9,12 @@ I build responsive, high-performance web applications using modern JavaScript fr
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://github.com/Aitrik" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/aitrik-saha-865ab22a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:aitriksaha78901@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
-> *(Replace `yourusername` and email links with your actual handles — don't worry, your layout will still look great.)*
+
 
 ---
 
@@ -29,7 +28,7 @@ I build responsive, high-performance web applications using modern JavaScript fr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://expressjs.com/images/express-facebook-share.png" width="45" height="45"/>
+  <img src="https://confidence-tech.com/assets/images/stack/expressjs_logo_icon_169185.png" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" width="45" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" height="45"/>
@@ -40,8 +39,8 @@ I build responsive, high-performance web applications using modern JavaScript fr
 
 ### 💡 What I Do Best
 
-- ⚙️ Frontend engineering with **React + Redux**
-- 🎨 Styling with **Tailwind CSS & MUI**
+- ⚙️ Frontend engineering with **React + Redux + Tanstack React Query**
+- 🎨 Styling with **Tailwind CSS , MUI,Shadcn UI etc**
 - 📱 Fully **responsive UI** (mobile → tablet → desktop)
 - ⚡ Performance-optimized and **scalable architecture**
 - 🔄 Infinite scroll, search, filters, pagination, and dynamic UIs
@@ -54,21 +53,15 @@ I build responsive, high-performance web applications using modern JavaScript fr
 
 | Project | Description | Tech Used |
 |--------|-------------|----------|
-| 🔹 Facebook-Style Profile UI | Responsive sidebar with avatars, posts, forms, actions | React, MUI, Tailwind |
 | 🔹 Industry Cards UI | Expandable mobile cards with animations | React, Tailwind, Lucide |
 | 🔹 Logo Showcase | Category filtering + pagination UI | React, Tailwind |
 | 🔹 Service Dashboard | Search, filters, badges, infinite scroll | Next.js, Redux, Tailwind |
 
-*(You can replace these rows with your actual repo links later — table is structured perfectly already.)*
+
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
