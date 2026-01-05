@@ -11,7 +11,10 @@ I build responsive, high-performance web applications using modern JavaScript fr
 <p align="left">
   <a href="https://github.com/Aitrik" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
   <a href="https://www.linkedin.com/in/aitrik-saha-865ab22a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:aitriksaha78901@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:aitriksaha78901@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 
