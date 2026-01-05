@@ -1,66 +1,82 @@
-<h1 align="center">Hi 👋, I'm Aitrik Saha</h1>
-<h3 align="center">🚀 Web Developer | 💻 JavaScript Enthusiast | ⚡ Building Scalable Applications</h3>
+# 👋 Hi, I'm **Aitrik Saha**
 
-<br/>
+**🚀 Web Developer | 💻 JavaScript Enthusiast | ⚡ Scalable App Builder**
+
+I build responsive, high-performance web applications using modern JavaScript frameworks. My focus is on clean UI, optimized frontend, scalable backend, and seamless user experience.
+
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
-<!-- Add your social links here -->
+  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
-<br/>
+> *(Replace `yourusername` and email links with your actual handles — don't worry, your layout will still look great.)*
 
-<h3 align="left">🛠️ Tech Stack:</h3>
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  
- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40" />
-</a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="vite" width="40" height="40" />
-  </a>
-
-  <a href="https://ui.shadcn.dev/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn-ui" width="40" height="40" />
-  </a>
-
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://expressjs.com/images/express-facebook-share.png" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" width="45" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="45" height="45"/>
 </p>
+
+---
+
+### 💡 What I Do Best
+
+- ⚙️ Frontend engineering with **React + Redux**
+- 🎨 Styling with **Tailwind CSS & MUI**
+- 📱 Fully **responsive UI** (mobile → tablet → desktop)
+- ⚡ Performance-optimized and **scalable architecture**
+- 🔄 Infinite scroll, search, filters, pagination, and dynamic UIs
+- 🔐 State management for authentication using **Redux**
+- ☁️ API integration & backend scaling using **Node.js & Express**
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Used |
+|--------|-------------|----------|
+| 🔹 Facebook-Style Profile UI | Responsive sidebar with avatars, posts, forms, actions | React, MUI, Tailwind |
+| 🔹 Industry Cards UI | Expandable mobile cards with animations | React, Tailwind, Lucide |
+| 🔹 Logo Showcase | Category filtering + pagination UI | React, Tailwind |
+| 🔹 Service Dashboard | Search, filters, badges, infinite scroll | Next.js, Redux, Tailwind |
+
+*(You can replace these rows with your actual repo links later — table is structured perfectly already.)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I believe **real transformation is about building value, not just using tools** — that’s why my solutions are always outcome-driven.
+
+---
+
+⭐ **If you like my work, feel free to explore my repos and connect!**  
+Let’s build something scalable together 🚀
