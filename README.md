@@ -10,15 +10,9 @@ I build responsive, high-performance web applications using modern JavaScript fr
 
 <p align="left">
   <a href="https://github.com/Aitrik" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/aitrik-saha-865ab22a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aitriksaha78901@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Compose-orange?style=for-the-badge&logo=gmail"/>
-</a>
-
-
+  <a href="https://www.linkedin.com/in/aitrik-saha-865ab22a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aitriksaha78901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Compose-orange?style=for-the-badge&logo=gmail"/></a>
 </p>
-
-
 
 ---
 
@@ -41,15 +35,31 @@ I build responsive, high-performance web applications using modern JavaScript fr
 
 ---
 
+### 🧠 Additional Skills
+
+- ⚛️ **React.js** (SPA, SSR, SSG, Hooks, Performance Optimization)
+- ⚡ **Tanstack Query / React Query** (Caching, Pagination, Mutations, Auto-Refetching)
+- 🔌 **WebSockets** (Real-Time Communication, Live Dashboards, Chat, Notifications)
+- 🧪 API Optimization & Error-Resilient Frontend
+- 🔐 Authentication & State Management using **Redux Toolkit**
+- ☁️ Deployment on **Vercel, Netlify, Render, Railway**
+- ⚙️ Scalable System & Backend Design using **Node.js + Express**
+- 🗄️ Database Design with **MongoDB + Atlas**
+- 🎨 Styling with **Tailwind CSS + MUI**
+- 🔄 Infinite Scroll, Search, Filters, Pagination, Dynamic UIs
+
+---
+
 ### 💡 What I Do Best
 
-- ⚙️ Frontend engineering with **React + Redux + Tanstack React Query**
-- 🎨 Styling with **Tailwind CSS , MUI,Shadcn UI etc**
-- 📱 Fully **responsive UI** (mobile → tablet → desktop)
-- ⚡ Performance-optimized and **scalable architecture**
-- 🔄 Infinite scroll, search, filters, pagination, and dynamic UIs
-- 🔐 State management for authentication using **Redux**
-- ☁️ API integration & backend scaling using **Node.js & Express**
+- ⚙️ Frontend Engineering with **React + Redux + Tanstack Query**
+- 🔌 Building **Real-Time Applications** using WebSockets
+- 🎨 Creating **Modern, Clean, Responsive UIs**
+- 📡 Scalable Backend Architecture & API-First Design
+- ⚡ Performance-Optimized & Future-Ready Systems
+- 📱 Seamless UX across **Mobile → Tablet → Desktop**
+- 🔄 Infinite Scroll, Filtering, Pagination, Live Updates
+- 🔐 Secure Auth State & Global App State Management
 
 ---
 
@@ -57,15 +67,13 @@ I build responsive, high-performance web applications using modern JavaScript fr
 
 | Project | Description | Tech Used |
 |--------|-------------|----------|
-| 🔹 Industry Cards UI | Expandable mobile cards with animations | React, Tailwind, Lucide |
-| 🔹 Logo Showcase | Category filtering + pagination UI | React, Tailwind |
-| 🔹 Service Dashboard | Search, filters, badges, infinite scroll | Next.js, Redux, Tailwind |
-
-
-
----
-
-
+| 🏭 Industry Cards UI | Expandable mobile-first cards with smooth UI interactions | React, Tailwind, Lucide |
+| 🧾 Logo Showcase | Category filtering + pagination UI for logo display | React, Tailwind |
+| 📊 Service Dashboard | Search, filters, badges, infinite scroll, dynamic routing | Next.js, Redux, Tailwind |
+| 📝 Blog Platform | Posts, categories, comments, search, optimized data fetching | React, Tanstack Query, Node, MongoDB |
+| 💬 Real-Time Chat App | 1-to-1 & group chat, typing indicator, live status | WebSockets, Node.js, MongoDB |
+| 🛒 E-Commerce Store | Cart UI, product filters, responsive listing, scalable backend | Next.js, Redux, Tailwind, MongoDB |
+| 🌍 Portfolio Landing Pages | Animated hero banners, testimonials, FAQ sections | React, Tailwind, Framer Motion |
 
 ---
 
