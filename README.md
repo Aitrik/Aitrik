@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views)](https://github.com/yourusername)
+
 
 </div>
 
