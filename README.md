@@ -29,8 +29,10 @@ I build responsive, high-performance web applications using modern JavaScript fr
   <img src="https://confidence-tech.com/assets/images/stack/expressjs_logo_icon_169185.png" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" width="45" height="45"/>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="45" height="45" alt="React Query / Tanstack Query"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/websocket.svg" width="45" height="45" alt="WebSockets"/>
 </p>
 
 ---
